@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.store.service.impl.DiscountServiceImplTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-04-19T11:24:26" hostname="XE-T-RSINGHAL" time="0.019">
+  <properties/>
+  <testcase name="calculate_discount_when_user_is_employee" classname="com.store.service.impl.DiscountServiceImplTest" time="0.014"/>
+  <testcase name="calculate_discount_when_user_is_affiliated" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <testcase name="calculate_discount_when_customer_is_existing_and_basic" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <testcase name="calculate_discount_when_customer_is_existing_and_affiliated" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <testcase name="calculate_discount_on_bill_amount" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <testcase name="calculate_discount_when_customer_is_existing_and_employee" classname="com.store.service.impl.DiscountServiceImplTest" time="0.001"/>
+  <testcase name="calculate_discount_when_user_is_preminum" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <testcase name="calculate_discount_when_customer_is_existing_and_premium" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <testcase name="calculate_discount_when_customer_is_new" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <testcase name="calculate_discount_when_user_is_basic" classname="com.store.service.impl.DiscountServiceImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
